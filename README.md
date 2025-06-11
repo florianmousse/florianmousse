@@ -106,19 +106,20 @@
 
 </div>
 
-<!-- ###
+###
 
 # 📊 GitHub Stats:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=florianmousse&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false)<br/>  
+<!-- ![](https://github-readme-stats.vercel.app/api?username=florianmousse&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false)<br/>  
 ![](https://nirzak-streak-stats.vercel.app/?user=florianmousse&theme=midnight-purple&hide_border=false&date_format=j%20M%5B%20Y%5D)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianmousse&hide_title=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianmousse&hide_title=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=florianmousse&hide=shaderlab,jupyter%20notebook,asp.net,hlsl,C%23&hide_title=false&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
-###
+<!-- ###
 
 # ✍️ Random Dev Quote
 
